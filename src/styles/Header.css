@@ -1,0 +1,8 @@
+.nav-bar {
+    background: rgb(68, 131, 164); 
+    height: 80px;
+    line-height: 80px;
+}
+.logo img {
+    max-width: 100%;
+}

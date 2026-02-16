@@ -1,0 +1,11 @@
+.subscribe-btn:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.subscribe-ipt.error {
+  border: 1px solid red;
+}
+
+.msg-success { color: green; font-size: 12px; margin-top: 5px; }
+.msg-error { color: red; font-size: 12px; margin-top: 5px; }
